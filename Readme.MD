@@ -61,15 +61,29 @@ Output
 Detected license plate region::
 
 1. Grayscale image of the input.
+
 ![alt text](Output/output_01.png)
+
+
 2. Edge-detected image.
+
 ![alt text](Output/output_02.png)
+
+
 3. Detected contour region.
+
 ![alt text](Output/output_03.png)
+
+
 4. Cropped license plate region.
+
 ![alt text](Output/output_04.png)
+
+
 5. Annotated image with the detected text.
+
 ![alt text](Output/output_05.png)
 
 The detected text is also printed in the console.
+
 ![alt text](Output/output_console.png)
