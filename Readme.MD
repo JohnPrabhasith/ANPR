@@ -1,4 +1,4 @@
-# Automatic License Plate Recognition (ANPR)
+# Automatic Number Plate Recognition (ANPR)
 
 This project demonstrates Automatic License Plate Recognition (ANPR) using OpenCV, EasyOCR, and Python. The script processes an input image to detect and extract text from a license plate.
 
